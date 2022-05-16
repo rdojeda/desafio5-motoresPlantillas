@@ -1,0 +1,2 @@
+[{"title":"Escuadra","price":123.45,"thumbnail":"https://res.cloudinary.com/ojedaweb/image/upload/v1652641194/2824436_ruler_school_stationary_triangle_icon.png","id":1},{"title":"Globo Terráqueo","price":345.67,"thumbnail":"https://res.cloudinary.com/ojedaweb/image/upload/v1652641153/2824444_earth_geograhy_globe_planet_school_icon.png","id":2},{"title":"Calculadora","price":334.56,"thumbnail":"https://res.cloudinary.com/ojedaweb/image/upload/v1652641203/2824440_calculator_math_school_tool_icon.png","id":3}]
+
