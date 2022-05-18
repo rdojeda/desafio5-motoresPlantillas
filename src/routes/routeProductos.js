@@ -32,7 +32,7 @@ router.get('/', (req, res) => {
     const body = req.body
     const image = req.file
     console.log(req)
-    body.thumbnail = image.filename
+    body.thumbnail = '/uploads/'+image.filename
     contenedorProductos.saveProducto(body, file)
    // res.json({ message: "Producto guardado", producto: body })
     res.redirect('/')
